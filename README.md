@@ -25,3 +25,10 @@ Recommended hardware specifications: CPU: 1.5GHZ (2 cores) RAM: At least 4Gb fre
 [VirtualWaveLab for MacOS](https://lipcloud.iingen.unam.mx/index.php/s/SYJ3c6KqALD6QgG)
 
 For Mac users: due to an incompatibility of Matlab App Designer for MacOS opening PDF files in compiled applications  please download the experiments description from [here](https://github.com/gmartinr/virtualwavelab/raw/main/Help/VirtualWaveFlumeExperiments.pdf)
+
+----------------------
+# Acknowledgments
+
+Financial support was provided by DGAP UNAM PAPIIT (IN102221) and CONACYT (CB-2016-284819 and CB-2016-284430)
+
+---------------------
