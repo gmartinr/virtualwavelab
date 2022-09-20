@@ -17,7 +17,7 @@ Recommended hardware specifications: CPU: 1.5GHZ (2 cores) RAM: At least 4Gb fre
 - Dean, R.G. & Dalrymple, R.A. (1991). Water wave mechanics for engineers and scientists. Advance Series On Ocean Engineering-Volume 2. World Scientifc. Pp 371. 
 - Lin, P., &  Liu, P.L.-F. (1998). A numerical study of breaking waves in the surf zone. J. Fluid Mech. 359, 239–264.
 - Losada, I.J., Lara, J.L., Guanche, R., & González-Ondina, J.M. (2008). Numerical analysis of wave overtopping of high mound breakwaters. Coast. Eng. 55, 47–62.
-- Torres-Freyermuth, A., Medellín, G., Martín, G.U., & Puleo, J.A. (submitted). A virtual laboratory for conducting “hands-on” experiments on water wave mechanics. Cont. Shelf Res.
+- Torres-Freyermuth, A., Medellín, G., Martín, G.U., & Puleo, J.A. (2022). A virtual laboratory for conducting “hands-on” experiments on water wave mechanics. Cont. Shelf Res. 243, 104760.
 
 # Link to releases (out of github due file size limit of 2gb)
 [VirtualWaveLab for Windows](https://lipcloud.iingen.unam.mx/index.php/s/eq9SsWsdiwki6t3)
