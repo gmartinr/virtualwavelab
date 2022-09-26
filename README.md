@@ -29,6 +29,6 @@ For Mac users: due to an incompatibility of Matlab App Designer for MacOS openin
 ----------------------
 # Acknowledgments
 
-Financial support was provided by DGAP UNAM PAPIIT (IN102221) and CONACYT (CB-2016-284819 and CB-2016-284430)
+Financial support was provided by DGAP UNAM PAPIIT (IN102221 and IA101422) and CONACYT (CB-2016-284819 and CB-2016-284430).
 
 ---------------------
