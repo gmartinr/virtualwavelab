@@ -1,3 +1,6 @@
+v0.05
+- Corrected play button behavior when no case loaded. Added files for spanish version.
+
 v0.04
 - Corrected help documents for all experiments.
 
