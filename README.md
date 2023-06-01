@@ -12,6 +12,8 @@ The description of the Virtual Wave Lab is presented in Torres-Freyermuth et al.
 You can Run every experiment separately by double clicking the file .mlapp in Matlab, compile the project to make an installer, or download the installer for Windows and Mac.
 Recommended hardware specifications: CPU: 1.5GHZ (2 cores) RAM: At least 4Gb free memory.
 
+# Authors
+Gonzalo Martín Ruiz; Gabriela Medellín; Alec Torres-Freyermuth
 
 # References:
 - Dean, R.G. & Dalrymple, R.A. (1991). Water wave mechanics for engineers and scientists. Advance Series On Ocean Engineering-Volume 2. World Scientifc. Pp 371. 
