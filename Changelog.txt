@@ -1,5 +1,5 @@
 v0.05
-- Corrected play button behavior when no case loaded. Added files for spanish version.
+- Corrected play button behavior when no case loaded. Added files for spanish version. Helpfiles now can open in menu.
 
 v0.04
 - Corrected help documents for all experiments.
