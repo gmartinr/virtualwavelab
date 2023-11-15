@@ -22,9 +22,9 @@ Gonzalo Martín Ruiz; Gabriela Medellín; Alec Torres-Freyermuth
 - Torres-Freyermuth, A., Medellín, G., Martín, G.U., & Puleo, J.A. (2022). A virtual laboratory for conducting “hands-on” experiments on water wave mechanics. Cont. Shelf Res. 243, 104760.
 
 # Link to releases (out of github due file size limit of 2gb)
-[VirtualWaveLab for Windows](https://lipcloud.iingen.unam.mx/index.php/s/eq9SsWsdiwki6t3)
+[VirtualWaveLab for Windows](https://cloud.lipc.unam.mx/index.php/s/eq9SsWsdiwki6t3)
 
-[VirtualWaveLab for MacOS](https://lipcloud.iingen.unam.mx/index.php/s/SYJ3c6KqALD6QgG)
+[VirtualWaveLab for MacOS](https://cloud.lipc.unam.mx/index.php/s/SYJ3c6KqALD6QgG)
 
 For Mac users: due to an incompatibility of Matlab App Designer for MacOS opening PDF files in compiled applications  please download the experiments description from [here](https://github.com/gmartinr/virtualwavelab/raw/main/Help/VirtualWaveFlumeExperiments.pdf)
 
